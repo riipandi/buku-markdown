@@ -7,4 +7,5 @@
 * Berbagai Visual Editor Untuk Markdown
 * Sintak
 * Mulai Belajar Markdown
+* Cara Kerja Markdown
 
