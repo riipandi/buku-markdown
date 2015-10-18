@@ -8,4 +8,5 @@
 * Berbagai Visual Editor Untuk Markdown
 * Sintak
 * Mulai Belajar Markdown
+* Cheat Sheet
 
