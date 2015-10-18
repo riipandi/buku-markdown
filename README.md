@@ -1,2 +1,3 @@
-# buku-markdown
-Buku saku mini untuk belajar menulis menggunakan Markdown. Dapat dibaca di Gitbook
+# Markdown, Cara Praktis Untuk Menulis
+
+Buku saku mini untuk belajar menulis menggunakan Markdown.
