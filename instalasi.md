@@ -11,4 +11,9 @@ Retext tersedia di repo Debian atau distro lain disini penulis memakai debian. <
     ketik password root<br>
     apt-get install retext<br>
 
-* Instalasi Gitbook
+* Instalasi Gitbook Editor
+  - Download Gitbook Editor https://www.gitbook.com/editor
+  - Pilih sesuai dengan OS anda 
+  - klik kanan dan klik install 
+  
+ 
