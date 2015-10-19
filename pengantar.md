@@ -38,11 +38,10 @@ List dengan Angka:
   2. oranges
   3. pears
 
-The rain---not the reign---in
-Spain.
 
 
   ```
+  
   
   
 
