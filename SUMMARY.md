@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * Pengantar
-* [Instalasi](instalasi.md)
+* [instalasi](instalasi.md)
 * Implementasi
 * Cara Kerja Markdown
 * Beda Degan WYSIWYG
