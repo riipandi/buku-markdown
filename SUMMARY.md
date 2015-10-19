@@ -9,5 +9,5 @@
 * [Berbagai Visual Editor Untuk Markdown](berbagai_visual_editor_untuk_markdown.md)
 * [Sintak](sintak.md)
 * [Mulai Belajar Markdown](mulai_belajar_markdown.md)
-* Cheat Sheet
+* [Cheat Sheet](cheat_sheet.md)
 
