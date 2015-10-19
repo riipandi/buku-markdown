@@ -1,11 +1,51 @@
-# Pengantar
+Pengantar
+=========
 
-**Markdown** 
-
+Markdown
+--------
 adalah format text yang didesain untuk segala format dokumen dengan menggunakan aplikasi pendukung. Markdown digunakan oleh Gitbook untuk menulis ebook yang di terbitkanya. 
 
-**Sejarah markdown**
+Sejarah Markdown
+----------------
 
-**Markdown** dikenalkan oleh John Gruber pada tahun 2004 bersama Aaron Swartz. Tujuan dibuat markdown adalah untuk memudahkan dalam performatan dokumen dengan menyederhanakan tag perforrmatan seperti tag **html**. 
+**Markdown** dikenalkan oleh John Gruber pada tahun 2004 bersama Aaron Swartz. Tujuan dibuat markdown adalah untuk memudahkan dalam performatan dokumen dengan menyederhanakan tag perforrmatan seperti tag **html** dll.
+
+
+Contoh markdown :
+
+  ```
+heading
+=======
+sub-heading
+-----------
+ 
+
+Text attributes *italic*, **bold**, 
+`monospace`, ~~strikethrough~~ .
+
+A [link](http://example.com).
+[28]
+
+List Belanja:
+
+  * apples
+  * oranges
+  * pears
+
+List dengan Angka:
+
+  1. apples
+  2. oranges
+  3. pears
+
+The rain---not the reign---in
+Spain.
+
+
+  ```
+  
+  
+
+
 
 
