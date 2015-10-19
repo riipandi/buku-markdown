@@ -1,2 +1,2 @@
-# Beda Degan WYSIWYG
+# Beda Dengan WYSIWYG
 
