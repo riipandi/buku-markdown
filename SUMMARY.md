@@ -1,7 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
 * Pengantar
-* Instalasi
+* [Instalasi](instalasi.md)
 * Implementasi
 * Cara Kerja Markdown
 * Beda Degan WYSIWYG
