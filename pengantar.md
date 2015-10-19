@@ -38,8 +38,6 @@ List dengan Angka:
   2. oranges
   3. pears
 
-
-
   ```
   
   
