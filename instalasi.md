@@ -4,8 +4,8 @@
 Untuk menulis markdown dibutuhkan aplikasi seperti Retext, Gitbook, pandoc dan sebagainya. Disini penulis menyarankan untuk memakai Retext atau Gitbook. <br>
 * Instalasi Retext <br>
 Retext tersedia di repo Debian atau distro lain disini penulis memakai debian. <br> 
-  - Sambung ke internet <br>
-  - Buka termainal lalu ketik : <br>
+  * Sambung ke internet <br>
+  * Buka termainal lalu ketik : <br>
   
  ```    
  su  
@@ -13,7 +13,16 @@ Retext tersedia di repo Debian atau distro lain disini penulis memakai debian. <
  apt-get install retex
 
  ```
-* Instalasi Gitbook
+ 
+* Instalasi Gitbook Editor
+ * Download Gitbook Editor melalui https://www.gitbook.com/editor
+ * Buka file browser dan klik kanan file tersebut trus pilih install
+ * Untuk di debian ketik :
+   ```
+   su
+   masukan password root
+   dpkg - i namafile gitbooketditor.
+   ```
 
 
   
