@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Pengantar
+* [Pengantar](pengantar.md)
 * [instalasi](instalasi.md)
 * [Implementasi](implementasi.md)
 * [Cara Kerja Markdown](cara_kerja_markdown.md)
