@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Pengantar
 * [instalasi](instalasi.md)
-* Implementasi
+* [Implementasi](implementasi.md)
 * Cara Kerja Markdown
 * Beda Degan WYSIWYG
 * Berbagai Visual Editor Untuk Markdown
