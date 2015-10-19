@@ -23,6 +23,7 @@ Retext tersedia di repo Debian atau distro lain disini penulis memakai debian. <
    masukan password root
    dpkg - i namafile gitbooketditor.
    ```
+* Dari dua aplikasi tersebut diatas Hanya gitbook editor yang bisa di install di windows.
 
 
   
