@@ -39,6 +39,7 @@ List dengan Angka:
   3. pears
 
   ```
+  markdown bisa ditulis menggunakan text editor biasa seperti notepad,gedit, geany. Namun untuk memudahkan menulis markdown telah dibuat beberapa aplikasi untuk menulis **markdown**
  
   
   
